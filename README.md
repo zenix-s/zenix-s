@@ -1,3 +1,6 @@
+## About Me:
+
+Desarrollador de software con conocimientos en diseño, desarrollo y pruebas de sistemas de software, dominio en desarrollo FullStack con tecnologías como React, Tailwind, TypeScript, NodeJs, NextJs, PHP, MySql, C#. Capacidad de adaptación a distintos entornos. Excelentes habilidades de trabajo en equipo y la destreza para desarrollar proyectos individualmente.Desarrollador de software con conocimientos en diseño, desarrollo y pruebas de sistemas de software, dominio en desarrollo FullStack con tecnologías como React, Tailwind, TypeScript, NodeJs, NextJs, PHP, MySql, C#. Capacidad de adaptación a distintos entornos. Excelentes habilidades de trabajo en equipo y la destreza para desarrollar proyectos individualmente.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sergioffdev) 
