@@ -1,5 +1,3 @@
-## About Me:
-About
 💼 Desarrollador Software en Neoris | Apasionado por la Ingeniería de Software
 
 👋 ¡Hola! Soy Sergio Fernández, un desarrollador backend con un fuerte interés en el desarrollo de software y sistemas. Actualmente, me desempeño como Desarrollador en Neoris, donde he podido aplicar mis conocimientos en TypeScript, C y .NET, además de manejar tecnologías de frontend como Angular.
